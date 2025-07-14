@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left"> 📚 Welcome to my digital page where I love to design projects that vibe <br> ⚡ AIML Enthusiast and Front End Developer </p>
+<p align="left"> 📚 Welcome to my digital page where I love to design projects that vibe <br> ⚡ Currently learning ReactJS <br> 🎮 Also I'm a Gaming Content Creator & Graphic Designer</p>
 
 ###
 
